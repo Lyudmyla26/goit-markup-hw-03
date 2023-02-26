@@ -35,7 +35,7 @@ img {
 	max-width: 100%;
 }
 .container {
-	width: 1158px;
+	min-width: 1158px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 15px;
@@ -167,7 +167,7 @@ img {
 	margin-bottom: 8px;
 }
 .strategy-item {
-	flex-basis: calc((100%-72) / 4);
+	flex-basis: calc((100% - 72px) / 4);
 }
 .strategy-description {
 	font-size: 16px;
