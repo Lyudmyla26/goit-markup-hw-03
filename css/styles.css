@@ -265,7 +265,7 @@ img {
 .filter-list {
 	display: flex;
 	justify-content: center;
-	padding-top: 96px;
+	margin-top: 96px;
 	gap: 24px;
 	margin-bottom: 72px;
 	flex-wrap: wrap;
