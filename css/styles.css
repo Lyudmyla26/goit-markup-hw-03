@@ -36,7 +36,7 @@ img {
 	height: auto;
 }
 .container {
-	min-width: 1158px;
+	max-width: 1158px;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 0 15px;
@@ -260,8 +260,7 @@ img {
 	margin-top: 16px;
 }
 /* Портфоліо */
-.filter {
-}
+
 .filter-list {
 	display: flex;
 	justify-content: center;
